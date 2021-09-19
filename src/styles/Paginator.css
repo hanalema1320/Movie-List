@@ -1,0 +1,15 @@
+.paginator {
+  display: flex;
+  justify-content: center;
+}
+
+.paginator button {
+  height: 48px;
+  width: 60px;
+  margin-right: 20px;
+  font-size: 32px;
+}
+
+.paginator button:last-of-type {
+  margin-right: 0;
+}
